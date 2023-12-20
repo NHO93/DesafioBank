@@ -1,0 +1,14 @@
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\bin\Debug\net8.0\DesafioBank.exe
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\bin\Debug\net8.0\DesafioBank.deps.json
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\bin\Debug\net8.0\DesafioBank.runtimeconfig.json
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\bin\Debug\net8.0\DesafioBank.dll
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\bin\Debug\net8.0\DesafioBank.pdb
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.AssemblyInfoInputs.cache
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.AssemblyInfo.cs
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.csproj.CoreCompileInputs.cache
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.dll
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\refint\DesafioBank.dll
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.pdb
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.genruntimeconfig.cache
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\ref\DesafioBank.dll
