@@ -1,5 +1,5 @@
 ﻿namespace DesafioBank;
 public class Lojista : UsuarioComum
 {
-    // Lojistas herdam propriedades e métodos de Usuario
+    // tem as propriedades e métodos de Usuario
 }

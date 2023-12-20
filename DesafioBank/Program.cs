@@ -2,10 +2,10 @@
 
 class Program
 {
-    static async Task Main()
+    public static async Task Main()
     {
-        UsuarioComum usuario1 = new UsuarioComum() { NomeCompleto = "Usuario 1", CPF = "12345678901", Email = "usuario1@email.com", Senha = "senha123", Saldo = 5000 };
-        UsuarioComum usuario2 = new UsuarioComum() { NomeCompleto = "Usuario 2", CPF = "98765432101", Email = "usuario2@email.com", Senha = "senha456", Saldo = 9000 };
+        UsuarioComum usuario1 = new UsuarioComum() { NomeCompleto = "Usuario 1", CPF = "12345678901", Email = "usuario1@email.com", Senha = "senha123", Saldo = 1000 };
+        UsuarioComum usuario2 = new UsuarioComum() { NomeCompleto = "Usuario 2", CPF = "98765432101", Email = "usuario2@email.com", Senha = "senha456", Saldo = 500 };
         Lojista lojista1 = new Lojista { NomeCompleto = "Lojista 1", CPF = "12345678901234", Email = "lojista1@email.com", Senha = "senha789", Saldo = 0 };
         Lojista lojista2 = new Lojista() {NomeCompleto = "Lojista 2", CPF = "14725836912", Email = "lojista2@email.com", Senha = "senha987", Saldo = 0};
 

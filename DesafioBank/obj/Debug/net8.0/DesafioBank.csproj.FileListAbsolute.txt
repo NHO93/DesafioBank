@@ -12,3 +12,4 @@ C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0
 C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.pdb
 C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.genruntimeconfig.cache
 C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\ref\DesafioBank.dll
+C:\Users\Edenilson Fabiano\source\repos\DesafioBank\DesafioBank\obj\Debug\net8.0\DesafioBank.sourcelink.json
