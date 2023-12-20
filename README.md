@@ -1,5 +1,7 @@
 # DesafioBank
- Estudando desafio de um bank digital
+ * Estudando desafio de um bank digital;
+ * Não tilizei sistema RESTFul;
+ * Em desenvolvimento.
 
  ---
 * Program Class:
